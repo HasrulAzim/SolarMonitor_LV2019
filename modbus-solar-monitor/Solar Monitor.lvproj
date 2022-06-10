@@ -105,13 +105,6 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
-			<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
-			<Item Name="Get Data Name from TD__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Data Name from TD__ogtk.vi"/>
-			<Item Name="Get Data Name__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Data Name__ogtk.vi"/>
-			<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>
-			<Item Name="Get Last PString__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Last PString__ogtk.vi"/>
-			<Item Name="Get PString__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get PString__ogtk.vi"/>
-			<Item Name="Get Strings from Enum TD__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Strings from Enum TD__ogtk.vi"/>
 			<Item Name="Get Strings from Enum__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Strings from Enum__ogtk.vi"/>
 			<Item Name="Set Control Value {Variant}__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/appcontrol/appcontrol.llb/Set Control Value {Variant}__ogtk.vi"/>
 			<Item Name="sql_close.vi" Type="VI" URL="../HMI/SubVI/Database/sql_LV-1.12-LabView14 -ORA-MySQL/sql_LV-1.12/sql_LV_plus.llb/sql_close.vi"/>
@@ -145,10 +138,6 @@
 			<Item Name="sql_update_clust (db cluster).vi" Type="VI" URL="../HMI/SubVI/Database/sql_LV-1.12-LabView14 -ORA-MySQL/sql_LV-1.12/sql_instances.llb/sql_update_clust (db cluster).vi"/>
 			<Item Name="sql_update_clust (db ref).vi" Type="VI" URL="../HMI/SubVI/Database/sql_LV-1.12-LabView14 -ORA-MySQL/sql_LV-1.12/sql_instances.llb/sql_update_clust (db ref).vi"/>
 			<Item Name="sql_XML.vi" Type="VI" URL="../HMI/SubVI/Database/sql_LV-1.12-LabView14 -ORA-MySQL/sql_LV-1.12/sql_LV_plus.llb/sql_XML.vi"/>
-			<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
-			<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Header__ogtk.ctl"/>
-			<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor__ogtk.ctl"/>
-			<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/user.lib/_OpenG.lib/lvdata/lvdata.llb/Variant to Header Info__ogtk.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="SM Installer" Type="Installer">
